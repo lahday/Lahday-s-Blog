@@ -1,0 +1,25 @@
+#test {
+  background-color: beige;
+  font-size: medium;
+  background: blanchedalmond;
+}
+a:link {
+  text-decoration: none;
+  text-style: italic;
+  font-size: medium;
+  font-family: sans-serif;
+}
+a:visited {
+  color: #307986;
+}
+a:hover {
+  color: coral;
+}
+a:active {
+  color: black;
+}
+body {
+  font-family: sans-serif;
+  background-color: #307986;
+  font-weight: bold;
+}
